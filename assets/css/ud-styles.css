@@ -15,7 +15,7 @@
   --font: "Inter", sans-serif;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #196349;
+  --primary-color: #118059;
   --white: #ffffff;
 }
 
@@ -247,7 +247,7 @@ p {
 }
 
 .navbar-brand img {
-  max-width: 160px;
+  max-width: 130px;
 }
 
 .navbar-toggler {
